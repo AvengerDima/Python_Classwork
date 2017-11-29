@@ -15,6 +15,7 @@ print("-------------")
 print(lst[0], lst[1], lst[2])
 print("-------------")
 
+
 for i in range(len(lst)):
     print(i, lst[i])
     lst[1] *= 2
